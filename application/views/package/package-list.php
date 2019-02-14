@@ -57,22 +57,23 @@
                     <img src="../../../assets/images/iplace-2.jpg" alt="" />
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 p2">
-                    <h3>Family Package 12 Night/13 Days <span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></span></h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
+                    <h3>QUEEN OF THE HILLS (Darjeeling 3N) <span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></span></h3>
+                    <p>If the idea of travelling to North East hamlets, brings to your mind a vivid picture of the colonial hill station, embellished with rolling emerald green mountains in steep tiers ...</p>
                     <div class="ticket">
                         <ul>
-                            <li>Available Tickets : 48</li>
+                            <li>Available Tickets : 48</li><!-- 
                             <li>Start Date : 12.01.2015</li>
-                            <li>End Date : 12.01.2015</li>
+                            <li>End Date : 12.01.2015</li> -->
                         </ul>
                     </div>
                     <div class="featur">
                         <h4>Package Locations</h4>
                         <ul>
-                            <li>Rio, Brazil(3 days)</li>
-                            <li>8 Breakfast, 3 Dinners</li>
+                            <li>Darjeeling(3 days)</li>
+                            <li>3 Breakfast, 3 Dinners</li>
                             <li>First class Sightseeing</li>
-                            <li>Lorem ipsum</li>
+                            <li>Tea Garden</li>
+                            <li>Ropeway</li>
                         </ul>
                     </div>
                     <div class="p2_book">
@@ -92,22 +93,23 @@
                     <img src="../../../assets/images/iplace-1.jpg" alt="" />
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 p2">
-                    <h3>Family Package 6 Night/7 Days <span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></span></h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
+                    <h3>SPLENDOUR HIMALAYA (Gangtok 3N) <span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></span></h3>
+                    <p>If the idea of travelling to North East hamlets, brings to your mind a vivid picture of the colonial hill station, embellished with rolling emerald green mountains in steep tiers ...</p>
                     <div class="ticket">
                         <ul>
-                            <li>Available Tickets : 48</li>
-                            <li>Start Date : 12.01.2015</li>
-                            <li>End Date : 12.01.2015</li>
+                            <li>Available Tickets : 15</li>
+                            <!-- <li>Start Date : 12.01.2015</li>
+                            <li>End Date : 12.01.2015</li> -->
                         </ul>
                     </div>
                     <div class="featur">
-                        <h4>Tour Inclusions</h4>
+                        <h4>Package Locations</h4>
                         <ul>
-                            <li>Accommodation</li>
-                            <li>8 Breakfast, 3 Dinners</li>
+                            <li>Darjeeling(3 days)</li>
+                            <li>3 Breakfast, 3 Dinners</li>
                             <li>First class Sightseeing</li>
-                            <li>Lorem ipsum</li>
+                            <li>Tea Garden</li>
+                            <li>Ropeway</li>
                         </ul>
                     </div>
                     <div class="p2_book">
@@ -127,22 +129,21 @@
                     <img src="../../../assets/images/iplace-3.jpg" alt="" />
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 p2">
-                    <h3>Family Package 14 Night/15 Days <span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></span></h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
+                    <h3>HEAVEN ON HILLS (Darjeeling 2N - Kalimpong 1N) <span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></span></h3>
+                    <p>If the idea of travelling to North East hamlets, brings to your mind a vivid picture of the colonial hill station, embellished with rolling emerald green mountains in steep tiers ...</p>
                     <div class="ticket">
                         <ul>
-                            <li>Available Tickets : 48</li>
-                            <li>Start Date : 12.01.2015</li>
-                            <li>End Date : 12.01.2015</li>
+                            <li>Available Tickets : 10</li>
                         </ul>
                     </div>
                     <div class="featur">
-                        <h4>Tour Inclusions</h4>
+                        <h4>Package Locations</h4>
                         <ul>
-                            <li>Accommodation</li>
-                            <li>8 Breakfast, 3 Dinners</li>
+                            <li>Darjeeling(3 days)</li>
+                            <li>3 Breakfast, 3 Dinners</li>
                             <li>First class Sightseeing</li>
-                            <li>Lorem ipsum</li>
+                            <li>Tea Garden</li>
+                            <li>Ropeway</li>
                         </ul>
                     </div>
                     <div class="p2_book">
@@ -162,22 +163,21 @@
                     <img src="../../../assets/images/iplace-4.jpg" alt="" />
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 p2">
-                    <h3>Family Package 4 Night/5 Days <span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></span></h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
+                    <h3>GREEN DOOARS (Jaldapara 1N - Lataguri 2N) <span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></span></h3>
+                    <p>If the idea of travelling to North East hamlets, brings to your mind a vivid picture of the colonial hill station, embellished with rolling emerald green mountains in steep tiers ...</p>
                     <div class="ticket">
                         <ul>
-                            <li>Available Tickets : 48</li>
-                            <li>Start Date : 12.01.2015</li>
-                            <li>End Date : 12.01.2015</li>
+                            <li>Available Tickets : 30</li>
                         </ul>
                     </div>
                     <div class="featur">
-                        <h4>Tour Inclusions</h4>
+                        <h4>Package Locations</h4>
                         <ul>
-                            <li>Accommodation</li>
-                            <li>8 Breakfast, 3 Dinners</li>
+                            <li>Darjeeling(3 days)</li>
+                            <li>3 Breakfast, 3 Dinners</li>
                             <li>First class Sightseeing</li>
-                            <li>Lorem ipsum</li>
+                            <li>Tea Garden</li>
+                            <li>Ropeway</li>
                         </ul>
                     </div>
                     <div class="p2_book">
@@ -197,22 +197,21 @@
                     <img src="../../../assets/images/iplace-5.jpg" alt="" />
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 p2">
-                    <h3>Family Package 6 Night/7 Days <span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></span></h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
+                    <h3>HIMALAYAN TRANQUILITY (Gangtok 2N - Darjeeling 2N) <span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></span></h3>
+                    <p>If the idea of travelling to North East hamlets, brings to your mind a vivid picture of the colonial hill station, embellished with rolling emerald green mountains in steep tiers ...</p>
                     <div class="ticket">
                         <ul>
-                            <li>Available Tickets : 48</li>
-                            <li>Start Date : 12.01.2015</li>
-                            <li>End Date : 12.01.2015</li>
+                            <li>Available Tickets : 30</li>
                         </ul>
                     </div>
                     <div class="featur">
-                        <h4>Tour Inclusions</h4>
+                        <h4>Package Locations</h4>
                         <ul>
-                            <li>Accommodation</li>
-                            <li>8 Breakfast, 3 Dinners</li>
+                            <li>Darjeeling(3 days)</li>
+                            <li>3 Breakfast, 3 Dinners</li>
                             <li>First class Sightseeing</li>
-                            <li>Lorem ipsum</li>
+                            <li>Tea Garden</li>
+                            <li>Ropeway</li>
                         </ul>
                     </div>
                     <div class="p2_book">
@@ -232,22 +231,21 @@
                     <img src="../../../assets/images/iplace-6.jpg" alt="" />
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 p2">
-                    <h3>Family Package 29 Night/30 Days <span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></span></h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
+                    <h3>LOST KINGDOM (Gangtok 2N - Pelling 2N) <span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></span></h3>
+                    <p>If the idea of travelling to North East hamlets, brings to your mind a vivid picture of the colonial hill station, embellished with rolling emerald green mountains in steep tiers ...</p>
                     <div class="ticket">
                         <ul>
-                            <li>Available Tickets : 48</li>
-                            <li>Start Date : 12.01.2015</li>
-                            <li>End Date : 12.01.2015</li>
+                            <li>Available Tickets : 30</li>
                         </ul>
                     </div>
                     <div class="featur">
-                        <h4>Tour Inclusions</h4>
+                        <h4>Package Locations</h4>
                         <ul>
-                            <li>Accommodation</li>
-                            <li>8 Breakfast, 3 Dinners</li>
+                            <li>Darjeeling(3 days)</li>
+                            <li>3 Breakfast, 3 Dinners</li>
                             <li>First class Sightseeing</li>
-                            <li>Lorem ipsum</li>
+                            <li>Tea Garden</li>
+                            <li>Ropeway</li>
                         </ul>
                     </div>
                     <div class="p2_book">

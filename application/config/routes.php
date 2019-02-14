@@ -58,7 +58,8 @@ $route['holiday-packages/heaven-on-hills'] = 'package/heaven_on_hills';
 $route['holiday-packages/himalayan-tranquility'] = 'package/himalayan_tranquility';
 $route['holiday-packages/lost-kingdom'] = 'package/lost_kingdom';
 $route['holiday-packages/spendour-himalaya'] = 'package/spendour_himalaya';
-//$route['holiday-packages/queen-of-the-hills'] = 'package/queen_of_the_hills';
+$route['holiday-packages/kerala-package'] = 'package/kerala_package';
+$route['holiday-packages/leh-package'] = 'package/leh_package';
 
 
 

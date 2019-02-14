@@ -60,5 +60,15 @@ class Package extends CI_Controller {
 		$data['main_content'] = 'package/spendour-himalaya.php';
 		$this->load->view('includes/template', $data);
 	}
+	public function kerala_package()
+	{
+		$data['main_content'] = 'package/kerala-package.php';
+		$this->load->view('includes/template', $data);
+	}
+	public function leh_package()
+	{
+		$data['main_content'] = 'package/leh-package.php';
+		$this->load->view('includes/template', $data);
+	}
 	
 }
