@@ -53,7 +53,7 @@
  *
  * NOTE: If you change these, also change the error_reporting() code below
  */
-	define('ENVIRONMENT', isset($_SERVER['CI_ENV']) ? $_SERVER['CI_ENV'] : 'development');
+	//define('ENVIRONMENT', isset($_SERVER['CI_ENV']) ? $_SERVER['CI_ENV'] : 'development');
 
 /*
  *---------------------------------------------------------------
@@ -63,24 +63,21 @@
  * Different environments will require different levels of error reporting.
  * By default development will show errors but testing and live will hide them.
  */
-switch (ENVIRONMENT)
+switch ($_SERVER['HTTP_HOST'])
 {
-	case 'development':
+	case 'learning.local':
 		error_reporting(-1);
 		ini_set('display_errors', 1);
+		define('ENVIRONMENT', 'local');
+		define('BASE_URL', 'http://learning.local/');
+		define('WEB_URL', 'http://learning.local/');
 	break;
-
-	case 'testing':
-	case 'production':
-		ini_set('display_errors', 0);
-		if (version_compare(PHP_VERSION, '5.3', '>='))
-		{
-			error_reporting(E_ALL & ~E_NOTICE & ~E_DEPRECATED & ~E_STRICT & ~E_USER_NOTICE & ~E_USER_DEPRECATED);
-		}
-		else
-		{
-			error_reporting(E_ALL & ~E_NOTICE & ~E_STRICT & ~E_USER_NOTICE);
-		}
+	case 'beyondstay.com':
+		error_reporting(-1);
+		ini_set('display_errors', 1);
+		define('ENVIRONMENT', 'production');
+		define('BASE_URL', 'http://beyondstay.com/');
+		define('WEB_URL', 'http://beyondstay.com/');
 	break;
 
 	default:
@@ -88,6 +85,25 @@ switch (ENVIRONMENT)
 		echo 'The application environment is not set correctly.';
 		exit(1); // EXIT_ERROR
 }
+
+
+// switch ($_SERVER['HTTP_HOST'])
+// {
+// 	case 'learning.local':
+// 		error_reporting(-1);
+// 		ini_set('display_errors', 1);
+// 		define('ENVIRONMENT', 'local');
+// 		define('BASE_URL', 'http://learning.local/');
+// 		define('WEB_URL', 'http://learning.local/');
+// 	break;
+// 	case 'beyondstay.com':
+// 		error_reporting(-1);
+// 		ini_set('display_errors', 1);
+// 		define('ENVIRONMENT', 'production');
+// 		define('BASE_URL', 'http://beyondstay.com/');
+// 		define('WEB_URL', 'http://beyondstay.com/');
+// 	break;
+// }
 
 /*
  *---------------------------------------------------------------

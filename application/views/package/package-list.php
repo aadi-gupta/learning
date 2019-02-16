@@ -1,31 +1,9 @@
-<section>
-  <!-- TOP SEARCH BOX -->
-  <div class="search-top">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="search-form">
-                  <form class="tourz-search-form">
-                     <div class="input-field">
-                        <input type="text" id="select-city" class="autocomplete">
-                        <label for="select-city">Enter city</label>
-                    </div>
-                    <div class="input-field">
-                        <input type="text" id="select-search" class="autocomplete">
-                        <label for="select-search" class="search-hotel-type">Search over a million tour and travels, sight seeings, hotels and more</label>
-                    </div>
-                    <div class="input-field">
-                        <input type="submit" value="search" class="waves-effect waves-light tourz-sear-btn"> </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- END TOP SEARCH BOX -->
-</section>
-<!--END HEADER SECTION-->
-
+    <style type="text/css">
+    .inner_banner_5 {
+    background: url(../../../assets/images/pack/1350x500/leh/Leh_11.jpg) no-repeat center center;
+    background-size: cover;
+}
+</style>
 <!--====== BANNER ==========-->
 <section>
     <div class="rows inner_banner inner_banner_5">
@@ -54,7 +32,7 @@
                 <div class="col-md-6 col-sm-6 col-xs-12 p2_1">
                     <div class="band"><img src="../../../assets/images/band.png" alt="" />
                     </div>
-                    <img src="../../../assets/images/iplace-2.jpg" alt="" />
+                    <img src="../../../assets/images/pack/550x350/Darjeeling.jpg" alt="" />
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 p2">
                     <h3>QUEEN OF THE HILLS (Darjeeling 3N) <span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></span></h3>
@@ -90,7 +68,7 @@
             <!--===== PLACES ======-->
             <div class="rows p2_2">
                 <div class="col-md-6 col-sm-6 col-xs-12 p2_1">
-                    <img src="../../../assets/images/iplace-1.jpg" alt="" />
+                    <img src="../../../assets/images/pack/550x350/Kerela_33.jpg" alt="" />
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 p2">
                     <h3>SPLENDOUR HIMALAYA (Gangtok 3N) <span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></span></h3>
@@ -126,7 +104,7 @@
             <!--===== PLACES ======-->
             <div class="rows p2_2">
                 <div class="col-md-6 col-sm-6 col-xs-12 p2_1">
-                    <img src="../../../assets/images/iplace-3.jpg" alt="" />
+                    <img src="../../../assets/images/pack/550x350/Darjeeling.jpg" alt="" />
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 p2">
                     <h3>HEAVEN ON HILLS (Darjeeling 2N - Kalimpong 1N) <span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></span></h3>
@@ -160,7 +138,7 @@
             <!--===== PLACES ======-->
             <div class="rows p2_2">
                 <div class="col-md-6 col-sm-6 col-xs-12 p2_1">
-                    <img src="../../../assets/images/iplace-4.jpg" alt="" />
+                    <img src="../../../assets/images/pack/550x350/Kerela_33.jpg" alt="" />
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 p2">
                     <h3>GREEN DOOARS (Jaldapara 1N - Lataguri 2N) <span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></span></h3>
@@ -194,7 +172,7 @@
             <!--===== PLACES ======-->
             <div class="rows p2_2">
                 <div class="col-md-6 col-sm-6 col-xs-12 p2_1">
-                    <img src="../../../assets/images/iplace-5.jpg" alt="" />
+                    <img src="../../../assets/images/pack/550x350/Darjeeling.jpg" alt="" />
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 p2">
                     <h3>HIMALAYAN TRANQUILITY (Gangtok 2N - Darjeeling 2N) <span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></span></h3>
@@ -228,7 +206,7 @@
             <!--===== PLACES ======-->
             <div class="rows p2_2">
                 <div class="col-md-6 col-sm-6 col-xs-12 p2_1">
-                    <img src="../../../assets/images/iplace-6.jpg" alt="" />
+                    <img src="../../../assets/images/pack/550x350/Kerela_33.jpg" alt="" />
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 p2">
                     <h3>LOST KINGDOM (Gangtok 2N - Pelling 2N) <span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></span></h3>
@@ -242,6 +220,72 @@
                         <h4>Package Locations</h4>
                         <ul>
                             <li>Darjeeling(3 days)</li>
+                            <li>3 Breakfast, 3 Dinners</li>
+                            <li>First class Sightseeing</li>
+                            <li>Tea Garden</li>
+                            <li>Ropeway</li>
+                        </ul>
+                    </div>
+                    <div class="p2_book">
+                        <ul>
+                            <li><a href="booking.html" class="link-btn">Book Now</a>
+                            </li>
+                            <li><a href="tour-details.html" class="link-btn">View Package</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!--===== PLACES ======-->
+            <div class="rows p2_2">
+                <div class="col-md-6 col-sm-6 col-xs-12 p2_1">
+                    <img src="../../../assets/images/pack/550x350/Darjeeling.jpg" alt="" />
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-12 p2">
+                    <h3>LADAKH 6 NIGHTS / 7 DAYS <span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></span></h3>
+                    <p>Leh is a gorgeous city which remains inaccessible for most part of the year. Due to the erratic nature of the climate, tourists are advised to carry woolens.</p>
+                    <div class="ticket">
+                        <ul>
+                            <li>Available Tickets : 30</li>
+                        </ul>
+                    </div>
+                    <div class="featur">
+                        <h4>Package Locations</h4>
+                        <ul>
+                            <li>Ladakh(7 days)</li>
+                            <li>7 Breakfast, 7 Dinners</li>
+                            <li>First class Sightseeing</li>
+                            <li>Visit the Leh Palace</li>
+                            <li>Enjoy a camel safari </li>
+                        </ul>
+                    </div>
+                    <div class="p2_book">
+                        <ul>
+                            <li><a href="booking.html" class="link-btn">Book Now</a>
+                            </li>
+                            <li><a href="tour-details.html" class="link-btn">View Package</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!--===== PLACES ======-->
+            <div class="rows p2_2">
+                <div class="col-md-6 col-sm-6 col-xs-12 p2_1">
+                    <img src="../../../assets/images/pack/550x350/Darjeeling.jpg" alt="" />
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-12 p2">
+                    <h3>Kerala 03 nights 04 days<span><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></span></h3>
+                    <p>India`s most idyllic state, Kerala, better known as Gods Own Country, is today one of the most sought after tourist destinations in India. Secluded beaches, palm-fringed backwaters, mist-clad hill stations,lush tropical forests, ...</p>
+                    <div class="ticket">
+                        <ul>
+                            <li>Available Tickets : 30</li>
+                        </ul>
+                    </div>
+                    <div class="featur">
+                        <h4>Package Locations</h4>
+                        <ul>
+                            <li>Munnar, Alleppy(3 days)</li>
                             <li>3 Breakfast, 3 Dinners</li>
                             <li>First class Sightseeing</li>
                             <li>Tea Garden</li>

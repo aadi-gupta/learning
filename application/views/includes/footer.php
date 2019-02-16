@@ -21,12 +21,12 @@
                     <div class="col-md-6 col-sm-12 col-xs-12 foot-spec footer_places">
                         <h4><span>Most Popular</span> Packages</h4>
                         <ul>
-                            <li><a href="tour-details.html">QUEEN OF THE HILLS</a> </li>
-                            <li><a href="tour-details.html">SPLENDOUR HIMALAYA</a> </li>
-                            <li><a href="tour-details.html">GREEN DOOARS</a> </li>
-                            <li><a href="tour-details.html">HEAVEN ON HILLS</a> </li>
-                            <li><a href="tour-details.html">HIMALAYAN TRANQUILITY</a> </li>
-                            <li><a href="tour-details.html">LOST KINGDOM</a> </li>
+                            <li><a href="holiday-packages/queen-of-the-hills">QUEEN OF THE HILLS</a> </li>
+                            <li><a href="holiday-packages/spendour-himalaya">SPLENDOUR HIMALAYA</a> </li>
+                            <li><a href="holiday-packages/green-dooars">GREEN DOOARS</a> </li>
+                            <li><a href="holiday-packages/heaven-on-hills">HEAVEN ON HILLS</a> </li>
+                            <li><a href="holiday-packages/himalayan-tranquility">HIMALAYAN TRANQUILITY</a> </li>
+                            <li><a href="holiday-packages/lost-kingdom">LOST KINGDOM</a> </li>
                         </ul>
                     </div>
                 </div>

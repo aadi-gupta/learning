@@ -108,7 +108,8 @@ $(document).ready(function() {
 	});
 	// alert("Hello");
 	var searchKeyMap = {
-		"Top Honeymoon Packages in India": "1",
+		"Top Honeymoon Packages in India": "holiday-packages/queen-of-the-hills",
+        "Top abc Honeymoon Packages in India": "holiday-packages/green-dooars",
 		"Family Package": "2",
 		"World Tour Package": "3",
 		"Hill Stations": "4",
@@ -116,15 +117,16 @@ $(document).ready(function() {
 		"Tour and Travel Packages": "6",
 		"City Seight Seeings": "7"
 	};
-	$("#select_search").autocomplete({
+	$("#select-search").autocomplete({
 		data: {
-			"Top Honeymoon Packages in India": "images/icon/7.png",
-			"Family Package": "images/icon/8.png",
-			"World Tour Package": "images/icon/9.png",
-			"Hill Stations": "images/icon/10.png",
-			"First India Hotel": "images/icon/27.png",
-			"Tour and Travel Packages": "images/icon/14.png",
-			"City Seight Seeings": "images/icon/15.png"
+			"Top Honeymoon Packages in India": null,
+            "Top abc Honeymoon Packages in India": null,
+			"Family Package": null,
+			"World Tour Package": null,
+			"Hill Stations": null,
+			"First India Hotel": null,
+			"Tour and Travel Packages": null,
+			"City Seight Seeings": null
 		},
 		limit: 8, // The max amount of results that can be shown at once. Default: Infinity.
 		onAutocomplete: function(val) {
@@ -172,6 +174,55 @@ function myFunction() {
 		}
 	}
 }
+
+$(document).ready(function () {
+    $("#book-submit").click(function () {  
+    //var name = $('#xebia_name').val(); 
+    var travel = new Object(); 
+    travel.name = $('#name').val(); 
+   	travel.email = $('#email').val(); 
+    travel.number = $('#number').val(); 
+    travel.fromdate = $('#fromdate').val(); 
+    travel.todate = $('#todate').val(); 
+    travel.selectcity = $('#selectcity').val(); 
+    travel.package = $('#package').val(); 
+    travel.noofadults = $('#noofadults').val(); 
+    travel.noofchildrens = $('#noofchildrens').val(); 
+    travel.minprice = $('#minprice').val(); 
+    travel.maxprice = $('#maxprice').val(); 
+    let ob = {'name':travel.name,
+    'email':travel.email,
+    'number':travel.number,
+    'fromdate':travel.fromdate,
+    'todate':travel.todate,
+    'selectcity':travel.selectcity,
+     'package':travel.package,
+     'noofadults':travel.noofadults,
+     'noofchildrens':travel.noofchildrens,
+     'minprice':travel.minprice,
+     'maxprice':travel.maxprice
+}
+console.log('ob',ob);
+    // dataTravel = JSON.parse(travel);
+    // let ob = {'name':'sushant','lastname':'thakur'};
+    //var send_data = '{"name":'+name+',"email":'+email+' ,"number":'+number+' ,"schedule":'+schedule+' ,"course":'+course+' ,"checkbox_authorize":'+checkbox_authorize+'}';
+    //var ddd = JSON.parse(send_data);
+   // alert(send_data); exit();
+                 $.ajax({  
+                     url: 'http://learning.local/booking/email_engine',  
+                     type: 'POST',  
+                     contentType: "text/plain",  
+                     data: ob,  
+                     success: function (data, textStatus, xhr) {  
+                         console.log(data);  
+                          alert("Thank you for your interest in posh essentials training. We will be in touch with you shortly to follow up on your inquiry.");
+                     },  
+                     error: function (xhr, textStatus, errorThrown) {  
+                         console.log('Error in Operation',errorThrown);  
+                     }  
+                 });  
+             });  
+         });
 
 // //DATE PICKER
 // $(function() {

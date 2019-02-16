@@ -1,31 +1,10 @@
-<section>
-		<!-- TOP SEARCH BOX -->
-        <div class="search-top">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="search-form">
-						<form class="tourz-search-form">
-							<div class="input-field">
-								<input type="text" id="select-city" class="autocomplete">
-								<label for="select-city">Enter city</label>
-							</div>
-							<div class="input-field">
-								<input type="text" id="select-search" class="autocomplete">
-								<label for="select-search" class="search-hotel-type">Search over a million tour and travels, sight seeings, hotels and more</label>
-							</div>
-							<div class="input-field">
-								<input type="submit" value="search" class="waves-effect waves-light tourz-sear-btn"> </div>
-						</form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-		<!-- END TOP SEARCH BOX -->
-    </section>
-    <!--END HEADER SECTION-->
-		
+	<style type="text/css">
+	.inner_banner_4 {
+    background: url(../../../assets/images/pack/1350x500/North-east/North_East5.jpg) no-repeat center center;
+    background-size: cover;
+}
+</style>
+	
 	<!--====== BANNER ==========-->
 	<section>
 		<div class="rows inner_banner inner_banner_4">
@@ -77,36 +56,36 @@
 						<div id="myCarousel1" class="carousel slide" data-ride="carousel">
 							<!-- Indicators -->
 							<ol class="carousel-indicators carousel-indicators-1">
-								<li data-target="#myCarousel1" data-slide-to="0"><img src="../../../assets/images/gallery/t1.jpg" alt="Chania">
+								<li data-target="#myCarousel1" data-slide-to="0"><img src="../../../assets/images/pack/850x450/sikkim-1.jpg" alt="Chania">
 								</li>
-								<li data-target="#myCarousel1" data-slide-to="1"><img src="../../../assets/images/gallery/t2.jpg" alt="Chania">
+								<li data-target="#myCarousel1" data-slide-to="1"><img src="../../../assets/images/pack/850x450/sikkim-2.jpg" alt="Chania">
 								</li>
-								<li data-target="#myCarousel1" data-slide-to="2"><img src="../../../assets/images/gallery/t3.jpg" alt="Chania">
+								<li data-target="#myCarousel1" data-slide-to="2"><img src="../../../assets/images/pack/850x450/sikkim-3.jpg" alt="Chania">
 								</li>
-								<li data-target="#myCarousel1" data-slide-to="3"><img src="../../../assets/images/gallery/t4.jpg" alt="Chania">
+								<li data-target="#myCarousel1" data-slide-to="3"><img src="../../../assets/images/pack/850x450/sikkim-4.jpg" alt="Chania">
 								</li>
-								<li data-target="#myCarousel1" data-slide-to="4"><img src="../../../assets/images/gallery/t5.jpg" alt="Chania">
+								<li data-target="#myCarousel1" data-slide-to="4"><img src="../../../assets/images/pack/850x450/sikkim-5.jpg" alt="Chania">
 								</li>
-								<li data-target="#myCarousel1" data-slide-to="5"><img src="../../../assets/images/gallery/s6.jpeg" alt="Chania">
+								<li data-target="#myCarousel1" data-slide-to="5"><img src="../../../assets/images/pack/850x450/sikkim-6.jpg" alt="Chania">
 								</li>
-								<li data-target="#myCarousel1" data-slide-to="6"><img src="../../../assets/images/gallery/s7.jpeg" alt="Chania">
+								<li data-target="#myCarousel1" data-slide-to="6"><img src="../../../assets/images/pack/850x450/sikkim-7.jpg" alt="Chania">
 								</li>
-								<li data-target="#myCarousel1" data-slide-to="7"><img src="../../../assets/images/gallery/s8.jpg" alt="Chania">
+								<li data-target="#myCarousel1" data-slide-to="7"><img src="../../../assets/images/pack/850x450/sikkim-8.jpg" alt="Chania">
 								</li>
-								<li data-target="#myCarousel1" data-slide-to="8"><img src="../../../assets/images/gallery/s9.jpg" alt="Chania">
+								<li data-target="#myCarousel1" data-slide-to="8"><img src="../../../assets/images/pack/850x450/sikkim-9.jpg" alt="Chania">
 								</li>
 							</ol>
 							<!-- Wrapper for slides -->
 							<div class="carousel-inner carousel-inner1" role="listbox">
-								<div class="item active"> <img src="../../../assets/images/gallery/t1.jpg" alt="Chania" width="460" height="345"> </div>
-								<div class="item"> <img src="../../../assets/images/gallery/t2.jpg" alt="Chania" width="460" height="345"> </div>
-								<div class="item"> <img src="../../../assets/images/gallery/t3.jpg" alt="Chania" width="460" height="345"> </div>
-								<div class="item"> <img src="../../../assets/images/gallery/t4.jpg" alt="Chania" width="460" height="345"> </div>
-								<div class="item"> <img src="../../../assets/images/gallery/t5.jpg" alt="Chania" width="460" height="345"> </div>
-								<div class="item"> <img src="../../../assets/images/gallery/t6.jpg" alt="Chania" width="460" height="345"> </div>
-								<div class="item"> <img src="../../../assets/images/gallery/t7.jpg" alt="Chania" width="460" height="345"> </div>
-								<div class="item"> <img src="../../../assets/images/gallery/t8.jpg" alt="Chania" width="460" height="345"> </div>
-								<div class="item"> <img src="../../../assets/images/gallery/t9.jpg" alt="Chania" width="460" height="345"> </div>
+								<div class="item active"> <img src="../../../assets/images/pack/850x450/sikkim-1.jpg" alt="Chania" width="460" height="345"> </div>
+								<div class="item"> <img src="../../../assets/images/pack/850x450/sikkim-2.jpg" alt="Chania" width="460" height="345"> </div>
+								<div class="item"> <img src="../../../assets/images/pack/850x450/sikkim-3.jpg" alt="Chania" width="460" height="345"> </div>
+								<div class="item"> <img src="../../../assets/images/pack/850x450/sikkim-4.jpg" alt="Chania" width="460" height="345"> </div>
+								<div class="item"> <img src="../../../assets/images/pack/850x450/sikkim-5.jpg" alt="Chania" width="460" height="345"> </div>
+								<div class="item"> <img src="../../../assets/images/pack/850x450/sikkim-6.jpg" alt="Chania" width="460" height="345"> </div>
+								<div class="item"> <img src="../../../assets/images/pack/850x450/sikkim-7.jpg" alt="Chania" width="460" height="345"> </div>
+								<div class="item"> <img src="../../../assets/images/pack/850x450/sikkim-8.jpg" alt="Chania" width="460" height="345"> </div>
+								<div class="item"> <img src="../../../assets/images/pack/850x450/sikkim-9.jpg" alt="Chania" width="460" height="345"> </div>
 							</div>
 							<!-- Left and right controls -->
 							<a class="left carousel-control" href="#myCarousel1" role="button" data-slide="prev"> <span><i class="fa fa-angle-left hotel-gal-arr" aria-hidden="true"></i></span> </a>
@@ -286,13 +265,13 @@
 					<!--====== PUPULAR TOUR PACKAGES ==========-->
 					<div class="tour_right tour_rela tour-ri-com">
 						<h3>Popular Packages</h3>
-						<div class="tour_rela_1"> <img src="../../../assets/images/related1.png" alt="" />
+						<div class="tour_rela_1"> <img src="../../../assets/images/pack/285x115/North_east1.jpg" alt="" />
 							<h4>SPLENDOUR HIMALAYA (Gangtok 3N)</h4>
 							<p>If the idea of travelling to North East hamlets, brings to your mind a vivid picture of the colonial hill station, </p> <a href="SPLENDOUR-HIMALAYA.html" class="link-btn">View this Package</a> </div>
-						<div class="tour_rela_1"> <img src="../../../assets/images/related2.png" alt="" />
+						<div class="tour_rela_1"> <img src="../../../assets/images/pack/285x115/North_east2.jpg" alt="" />
 							<h4>GREEN DOOARS (Jaldapara 1N - Lataguri 2N)</h4>
 							<p>If the idea of travelling to North East hamlets, brings to your mind a vivid picture of the colonial hill station,</p> <a href="GREENDOOARS.html" class="link-btn">View this Package</a> </div>
-						<div class="tour_rela_1"> <img src="../../../assets/images/related3.png" alt="" />
+						<div class="tour_rela_1"> <img src="../../../assets/images/pack/285x115/North_east3.jpg" alt="" />
 							<h4>HEAVEN ON HILLS (Darjeeling 2N - Kalimpong 1N)</h4>
 							<p>If the idea of travelling to North East hamlets, brings to your mind a vivid picture of the colonial hill station,</p> <a href="HEAVEN-ON-HILLS.html" class="link-btn">View this Package</a> </div>
 					</div>

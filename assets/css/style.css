@@ -1602,7 +1602,7 @@
 /* 12.1 OFFERS & DISCOUNTS 
 /*-------------------------------------------------------*/
  .disco {
-     background: url('../images/f1.png') no-repeat center center;
+     background: url('../images/pack/300x180/Kashmir_1.jpg') no-repeat center center;
      background-size: cover;
      padding: 20px 15px 22px 15px;
      text-align: center;
@@ -1610,7 +1610,7 @@
      */
 }
  .disco1 {
-     background: url('../images/f2.png') no-repeat center center;
+     background: url('../images/pack/300x180/Kerela_11.jpg') no-repeat center center;
      background-size: cover;
 }
  .disco h3 {
@@ -4908,7 +4908,7 @@
 /* REGISTER AND LOGIN 
 /*-------------------------------------------------------*/
  .tr-register {
-     background: url(../images/face.jpg) #e6e6e6;
+     background: url(../images/pack/1357x694/Hospitality.jpg) #e6e6e6;
      position: relative;
     /* overflow: hidden;
      */
@@ -7420,7 +7420,7 @@
 /* = HOME PAGE OFFER 
 /*-------------------------------------------------*/
  .offer {
-     background: url(../images/placebg.jpg) no-repeat;
+     background: url(../images/pack/1357x694/Hospitality.jpg) no-repeat;
      background-attachment: fixed;
      background-size: cover;
      width: 100%;

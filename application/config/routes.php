@@ -49,6 +49,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | Examples:	my-controller/index	-> my_controller/index
 |		my-controller/my-method	-> my_controller/my_method
 */
+
 $route['default_controller'] = 'welcome';
 $route['contact-us'] = 'welcome/contact_us';
 $route['holiday-packages'] = 'package/package_list';
@@ -60,7 +61,8 @@ $route['holiday-packages/lost-kingdom'] = 'package/lost_kingdom';
 $route['holiday-packages/spendour-himalaya'] = 'package/spendour_himalaya';
 $route['holiday-packages/kerala-package'] = 'package/kerala_package';
 $route['holiday-packages/leh-package'] = 'package/leh_package';
-
+$route['book'] = 'booking/book_email';
+$route['email-engine'] = 'booking/email_engine';
 
 
 

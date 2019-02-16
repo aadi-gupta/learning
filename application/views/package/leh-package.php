@@ -1,31 +1,9 @@
-<section>
-		<!-- TOP SEARCH BOX -->
-        <div class="search-top">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="search-form">
-						<form class="tourz-search-form">
-							<div class="input-field">
-								<input type="text" id="select-city" class="autocomplete">
-								<label for="select-city">Enter city</label>
-							</div>
-							<div class="input-field">
-								<input type="text" id="select-search" class="autocomplete">
-								<label for="select-search" class="search-hotel-type">Search over a million tour and travels, sight seeings, hotels and more</label>
-							</div>
-							<div class="input-field">
-								<input type="submit" value="search" class="waves-effect waves-light tourz-sear-btn"> </div>
-						</form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-		<!-- END TOP SEARCH BOX -->
-    </section>
-    <!--END HEADER SECTION-->
-		
+	<style type="text/css">
+	.inner_banner_4 {
+    background: url(../../../assets/images/pack/1350x500/leh/Leh_11.jpg) no-repeat center center;
+    background-size: cover;
+}
+</style>
 	<!--====== BANNER ==========-->
 	<section>
 		<div class="rows inner_banner inner_banner_4">
@@ -48,9 +26,9 @@
 			<div class="container">
 				<div class="banner_book_1">
 					<ul>
-						<li class="dl1">Location : Darjeeling</li>
-						<li class="dl2">Price : Starting from ₹12,200</li>
-						<li class="dl3">Duration : 3 Nights/ 4 Days</li>
+						<li class="dl1">Location : Ladakh</li>
+						<li class="dl2">Price : Starting from ₹26,300</li>
+						<li class="dl3">Duration : 6 Nights/ 7 Days</li>
 						<li class="dl4"><a href="booking.html">Book Now</a> </li>
 					</ul>
 				</div>
@@ -64,11 +42,11 @@
 				<div class="col-md-9">
 					<!--====== TOUR TITLE ==========-->
 					<div class="tour_head">
-						<h2>QUEEN OF THE HILLS (Darjeeling 3N)<span class="tour_star"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></span><span class="tour_rat">4.5</span></h2> </div>
+						<h2>LADAKH 6 NIGHTS / 7 DAYS - Ladakh<span class="tour_star"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></span><span class="tour_rat">4.5</span></h2> </div>
 					<!--====== TOUR DESCRIPTION ==========-->
 					<div class="tour_head1">
 						<h3>Description</h3>
-						<p>If the idea of travelling to North East hamlets, brings to your mind a vivid picture of the colonial hill station, embellished with rolling emerald green mountains in steep tiers, fluttering Tibetian flags against the backdrop of gigantic monasteries where lamas busy mumbling holy chants, and a handful of glittering lakes that holds a strong mythological significance, then what you have though is just a small clip art. The actual picture is far more stunning and alluring, however, the facts is that power of words can never comprehend the mysticism that this state possesses. Nowadays, many travellers and thrill seekers are heading to the hill station of North East, precisely Darjeeling and Gangtok, to seek a perfect holiday in serenity.</p>
+						<p>Leh is a gorgeous city which remains inaccessible for most part of the year. Due to the erratic nature of the climate, tourists are advised to carry woolens. The passes to reach Leh remains open only from the months of June till September.</p>
 						
 					</div>
 					<!--====== ROOMS: HOTEL BOOKING ==========-->
@@ -77,36 +55,36 @@
 						<div id="myCarousel1" class="carousel slide" data-ride="carousel">
 							<!-- Indicators -->
 							<ol class="carousel-indicators carousel-indicators-1">
-								<li data-target="#myCarousel1" data-slide-to="0"><img src="../../../assets/images/gallery/t1.jpg" alt="Chania">
+								<li data-target="#myCarousel1" data-slide-to="0"><img src="../../../assets/images/pack/850x450/leh-1.jpg" alt="Chania">
 								</li>
-								<li data-target="#myCarousel1" data-slide-to="1"><img src="../../../assets/images/gallery/t2.jpg" alt="Chania">
+								<li data-target="#myCarousel1" data-slide-to="1"><img src="../../../assets/images/pack/850x450/leh-2.jpg" alt="Chania">
 								</li>
-								<li data-target="#myCarousel1" data-slide-to="2"><img src="../../../assets/images/gallery/t3.jpg" alt="Chania">
+								<li data-target="#myCarousel1" data-slide-to="2"><img src="../../../assets/images/pack/850x450/leh-3.jpg" alt="Chania">
 								</li>
-								<li data-target="#myCarousel1" data-slide-to="3"><img src="../../../assets/images/gallery/t4.jpg" alt="Chania">
+								<li data-target="#myCarousel1" data-slide-to="3"><img src="../../../assets/images/pack/850x450/leh-4.jpg" alt="Chania">
 								</li>
-								<li data-target="#myCarousel1" data-slide-to="4"><img src="../../../assets/images/gallery/t5.jpg" alt="Chania">
+								<li data-target="#myCarousel1" data-slide-to="4"><img src="../../../assets/images/pack/850x450/leh-5.jpg" alt="Chania">
 								</li>
-								<li data-target="#myCarousel1" data-slide-to="5"><img src="../../../assets/images/gallery/s6.jpeg" alt="Chania">
+								<li data-target="#myCarousel1" data-slide-to="5"><img src="../../../assets/images/pack/850x450/leh-6.jpg" alt="Chania">
 								</li>
-								<li data-target="#myCarousel1" data-slide-to="6"><img src="../../../assets/images/gallery/s7.jpeg" alt="Chania">
+								<li data-target="#myCarousel1" data-slide-to="6"><img src="../../../assets/images/pack/850x450/leh-7.jpg" alt="Chania">
 								</li>
-								<li data-target="#myCarousel1" data-slide-to="7"><img src="../../../assets/images/gallery/s8.jpg" alt="Chania">
+								<li data-target="#myCarousel1" data-slide-to="7"><img src="../../../assets/images/pack/850x450/leh-8.jpg" alt="Chania">
 								</li>
-								<li data-target="#myCarousel1" data-slide-to="8"><img src="../../../assets/images/gallery/s9.jpg" alt="Chania">
+								<li data-target="#myCarousel1" data-slide-to="8"><img src="../../../assets/images/pack/850x450/leh-9.jpg" alt="Chania">
 								</li>
 							</ol>
 							<!-- Wrapper for slides -->
 							<div class="carousel-inner carousel-inner1" role="listbox">
-								<div class="item active"> <img src="../../../assets/images/gallery/t1.jpg" alt="Chania" width="460" height="345"> </div>
-								<div class="item"> <img src="../../../assets/images/gallery/t2.jpg" alt="Chania" width="460" height="345"> </div>
-								<div class="item"> <img src="../../../assets/images/gallery/t3.jpg" alt="Chania" width="460" height="345"> </div>
-								<div class="item"> <img src="../../../assets/images/gallery/t4.jpg" alt="Chania" width="460" height="345"> </div>
-								<div class="item"> <img src="../../../assets/images/gallery/t5.jpg" alt="Chania" width="460" height="345"> </div>
-								<div class="item"> <img src="../../../assets/images/gallery/t6.jpg" alt="Chania" width="460" height="345"> </div>
-								<div class="item"> <img src="../../../assets/images/gallery/t7.jpg" alt="Chania" width="460" height="345"> </div>
-								<div class="item"> <img src="../../../assets/images/gallery/t8.jpg" alt="Chania" width="460" height="345"> </div>
-								<div class="item"> <img src="../../../assets/images/gallery/t9.jpg" alt="Chania" width="460" height="345"> </div>
+								<div class="item active"> <img src="../../../assets/images/pack/850x450/leh-1.jpg" alt="Chania" width="460" height="345"> </div>
+								<div class="item"> <img src="../../../assets/images/pack/850x450/leh-2.jpg" alt="Chania" width="460" height="345"> </div>
+								<div class="item"> <img src="../../../assets/images/pack/850x450/leh-3.jpg" alt="Chania" width="460" height="345"> </div>
+								<div class="item"> <img src="../../../assets/images/pack/850x450/leh-4.jpg" alt="Chania" width="460" height="345"> </div>
+								<div class="item"> <img src="../../../assets/images/pack/850x450/leh-5.jpg" alt="Chania" width="460" height="345"> </div>
+								<div class="item"> <img src="../../../assets/images/pack/850x450/leh-6.jpg" alt="Chania" width="460" height="345"> </div>
+								<div class="item"> <img src="../../../assets/images/pack/850x450/leh-7.jpg" alt="Chania" width="460" height="345"> </div>
+								<div class="item"> <img src="../../../assets/images/pack/850x450/leh-8.jpg" alt="Chania" width="460" height="345"> </div>
+								<div class="item"> <img src="../../../assets/images/pack/850x450/leh-9.jpg" alt="Chania" width="460" height="345"> </div>
 							</div>
 							<!-- Left and right controls -->
 							<a class="left carousel-control" href="#myCarousel1" role="button" data-slide="prev"> <span><i class="fa fa-angle-left hotel-gal-arr" aria-hidden="true"></i></span> </a>
@@ -116,44 +94,8 @@
 					<!--====== TOUR LOCATION ==========-->
 					<div class="tour_head1 tout-map map-container">
 						<h3>Location</h3>
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d56862.42971119033!2d88.22956952512982!3d27.033267000721064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e42e654cf501bb%3A0x4175555979d4702a!2sDarjeeling%2C+West+Bengal!5e0!3m2!1sen!2sin!4v1550140878561" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d105639.10349000509!2d77.49669807793032!3d34.166241757612056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38fdeb21445fed85%3A0xd1bb09975086f710!2sLeh!5e0!3m2!1sen!2sin!4v1550172342759" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>s
 					</div>
-					<!--====== ABOUT THE TOUR ==========-->
-					<!-- <div class="tour_head1">
-						<h3>About The Tour</h3>
-						<table>
-							<tr>
-								<th>Places covered</th>
-								<th class="event-res">Inclusions</th>
-								<th class="event-res">Exclusions</th>
-								<th>Event Date</th>
-							</tr>
-							<tr>
-								<td>Rio De Janeiro ,Brazil</td>
-								<td class="event-res">Accommodation</td>
-								<td class="event-res">Return Airfare & Taxes</td>
-								<td>Nov 12, 2017</td>
-							</tr>
-							<tr>
-								<td>Iguassu Falls </td>
-								<td class="event-res">8 Breakfast, 3 Dinners</td>
-								<td class="event-res">Arrival & Departure transfers</td>
-								<td>Nov 14, 2017</td>
-							</tr>
-							<tr>
-								<td>Peru,Lima </td>
-								<td class="event-res">First-class Travel</td>
-								<td class="event-res">travel insurance</td>
-								<td>Nov 16, 2017</td>
-							</tr>
-							<tr>
-								<td>Cusco & Buenos Aires </td>
-								<td class="event-res">Free Sightseeing</td>
-								<td class="event-res">Service tax of 4.50%</td>
-								<td>Nov 18, 2017</td>
-							</tr>
-						</table>
-					</div> -->
 					<!--====== DURATION ==========-->
 					<div class="tour_head1 l-info-pack-days days">
 						<h3>Detailed Day Wise Itinerary</h3>
@@ -179,7 +121,7 @@
 								<p>Early morning enjoy the picturesque view of Sun rise on lake. After Breakfast drive back to Leh, en route visit Thiksey Monastery and Shey Palace. Overnight in  Leh.</p>
 							</li>
 							<li class="l-info-pack-plac"> <i class="fa fa-clock-o" aria-hidden="true"></i>
-								
+								<h4><span>Day : 6</span> Visit the Leh Palace</h4>
 								<p>After breakfast visit the Leh Palace ,Shanti Stupa and Leh Market. Later afternoon free for shopping. O/N leh.</p>
 							</li>
 							<li class="l-info-pack-plac"> <i class="fa fa-clock-o" aria-hidden="true"></i>
@@ -298,13 +240,13 @@
 					<!--====== PUPULAR TOUR PACKAGES ==========-->
 					<div class="tour_right tour_rela tour-ri-com">
 						<h3>Popular Packages</h3>
-						<div class="tour_rela_1"> <img src="../../../assets/images/related1.png" alt="" />
+						<div class="tour_rela_1"> <img src="../../../assets/images/pack/285x115/North_east1.jpg" alt="" />
 							<h4>SPLENDOUR HIMALAYA (Gangtok 3N)</h4>
 							<p>If the idea of travelling to North East hamlets, brings to your mind a vivid picture of the colonial hill station, </p> <a href="SPLENDOUR-HIMALAYA.html" class="link-btn">View this Package</a> </div>
-						<div class="tour_rela_1"> <img src="../../../assets/images/related2.png" alt="" />
-							<h4>GREEN DOOARS (Jaldapara 1N - Lataguri 2N)</h4>
-							<p>If the idea of travelling to North East hamlets, brings to your mind a vivid picture of the colonial hill station,</p> <a href="GREENDOOARS.html" class="link-btn">View this Package</a> </div>
-						<div class="tour_rela_1"> <img src="../../../assets/images/related3.png" alt="" />
+						<div class="tour_rela_1"> <img src="../../../assets/images/pack/285x115/North_east2.jpg" alt="" />
+							<h4>QUEEN OF THE HILLS (Darjeeling 3N)</h4>
+							<p>If the idea of travelling to North East hamlets, brings to your mind a vivid picture of the colonial hill station,</p> <a href="queen-of-the-hills.html" class="link-btn">View this Package</a> </div>
+						<div class="tour_rela_1"> <img src="../../../assets/images/pack/285x115/North_east3.jpg" alt="" />
 							<h4>HEAVEN ON HILLS (Darjeeling 2N - Kalimpong 1N)</h4>
 							<p>If the idea of travelling to North East hamlets, brings to your mind a vivid picture of the colonial hill station,</p> <a href="HEAVEN-ON-HILLS.html" class="link-btn">View this Package</a> </div>
 					</div>

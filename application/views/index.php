@@ -1,3 +1,4 @@
+ 
     <!--HEADER SECTION-->
     <section>
         <div class="tourz-search">
@@ -12,8 +13,8 @@
                                 <label for="select-city">Enter city</label>
                             </div>
                             <div class="input-field">
-                                <input type="text" id="select_search" class="autocomplete">
-                                <label for="select_search" class="search-hotel-type">Search over a million tour and travels, packages, hotels and more</label>
+                                <input type="text" id="select-search" class="autocomplete">
+                                <label for="select-search" class="search-hotel-type">Search over a million tour and travels, packages, hotels and more</label>
                             </div>
                             <div class="input-field">
                                 <input type="submit" value="search" class="waves-effect waves-light tourz-sear-btn"> </div>
@@ -57,29 +58,12 @@
                         <!-- OFFER BRAND -->
                         <div class="band"> <img src="../../../assets/images/band.png" alt="" /> </div>
                         <!-- IMAGE -->
-                        <div class="v_place_img"> <img src="../../../assets/images/t5.png" alt="Tour Booking" title="Tour Booking" /> </div>
+                        <div class="v_place_img"> <img src="../../../assets/images/pack/377x218/North_e1.jpg" alt="Tour Booking" title="Tour Booking" /> </div>
                         <!-- TOUR TITLE & ICONS -->
                         <div class="b_pack rows">
                             <!-- TOUR TITLE -->
-                            <div class="col-md-8 col-sm-8">
-                                <h4><a href="queen-of-the-hills.html">Queen of the Hills<span class="v_pl_name">(North East)</span></a></h4>
-                            </div>
-                            <!-- TOUR ICONS -->
-                            <div class="col-md-4 col-sm-4 pack_icon">
-                                <ul>
-                                    <li>
-                                        <a href="#"><img src="../../../assets/images/clock.png" alt="Date" title="Tour Timing" /> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="../../../assets/images/info.png" alt="Details" title="View more details" /> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="../../../assets/images/price.png" alt="Price" title="Price" /> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="../../../assets/images/map.png" alt="Location" title="Location" /> </a>
-                                    </li>
-                                </ul>
+                            <div class="col-md-12 col-sm-12">
+                                <h4><a href="holiday-packages/queen-of-the-hills">Queen of the Hills<span class="v_pl_name">(North East)</span></a></h4>
                             </div>
                         </div>
                     </div>
@@ -88,129 +72,48 @@
                         <!-- OFFER BRAND -->
                         <div class="band"> <img src="../../../assets/images/band1.png" alt="" /> </div>
                         <!-- IMAGE -->
-                        <div class="v_place_img"> <img src="../../../assets/images/t1.png" alt="Tour Booking" title="Tour Booking" /> </div>
+                        <div class="v_place_img"> <img src="../../../assets/images/pack/377x218/North_e2.jpg" alt="Tour Booking" title="Tour Booking" /> </div>
                         <!-- TOUR TITLE & ICONS -->
                         <div class="b_pack rows">
                             <!-- TOUR TITLE -->
-                            <div class="col-md-8 col-sm-8">
-                                <h4><a href="SPLENDOUR-HIMALAYA.html">SPLENDOUR HIMALAYA<span class="v_pl_name">(North East)</span></a></h4>
-                            </div>
-                            <!-- TOUR ICONS -->
-                            <div class="col-md-4 col-sm-4 pack_icon">
-                                <ul>
-                                    <li>
-                                        <a href="#"><img src="../../../assets/images/clock.png" alt="Date" title="Tour Timing" /> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="../../../assets/images/info.png" alt="Details" title="View more details" /> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="../../../assets/images/price.png" alt="Price" title="Price" /> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="../../../assets/images/map.png" alt="Location" title="Location" /> </a>
-                                    </li>
-                                </ul>
+                            <div class="col-md-12 col-sm-12">
+                                <h4><a href="holiday-packages/spendour-himalaya">SPLENDOUR HIMALAYA<span class="v_pl_name">(North East)</span></a></h4>
                             </div>
                         </div>
                     </div>
                     <!-- TOUR PLACE 3 -->
                     <div class="col-md-4 col-sm-6 col-xs-12 b_packages wow fadeInUp" data-wow-duration="0.9s">
-                        <div class="v_place_img"><img src="../../../assets/images/t2.png" alt="Tour Booking" title="Tour Booking" /> </div>
+                        <div class="v_place_img"><img src="../../../assets/images/pack/377x218/North_e3.jpg" alt="Tour Booking" title="Tour Booking" /> </div>
                         <div class="b_pack rows">
-                            <div class="col-md-8 col-sm-8">
-                                <h4><a href="GREENDOOARS.html">GREEN DOOARS<span class="v_pl_name">(North East)</span></a></h4>
-                            </div>
-                            <div class="col-md-4 col-sm-4 pack_icon">
-                                <ul>
-                                    <li>
-                                        <a href="#"><img src="../../../assets/images/clock.png" alt="Date" title="Tour Timing" /> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="../../../assets/images/info.png" alt="Details" title="View more details" /> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="../../../assets/images/price.png" alt="Price" title="Price" /> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="../../../assets/images/map.png" alt="Location" title="Location" /> </a>
-                                    </li>
-                                </ul>
+                            <div class="col-md-12 col-sm-12">
+                                <h4><a href="holiday-packages/green-dooars">GREEN DOOARS<span class="v_pl_name">(North East)</span></a></h4>
                             </div>
                         </div>
                     </div>
                     <!-- TOUR PLACE 4 -->
                     <div class="col-md-4 col-sm-6 col-xs-12 b_packages wow fadeInUp" data-wow-duration="1.1s">
-                        <div class="v_place_img"><img src="../../../assets/images/t3.png" alt="Tour Booking" title="Tour Booking" /> </div>
+                        <div class="v_place_img"><img src="../../../assets/images/pack/377x218/North_e4.jpg" alt="Tour Booking" title="Tour Booking" /> </div>
                         <div class="b_pack rows">
-                            <div class="col-md-8 col-sm-8">
-                                <h4><a href="HEAVEN-ON-HILLS.html">HEAVEN ON HILLS<span class="v_pl_name">(North East)</span></a></h4>
-                            </div>
-                            <div class="col-md-4 col-sm-4 pack_icon">
-                                <ul>
-                                    <li>
-                                        <a href="#"><img src="../../../assets/images/clock.png" alt="Date" title="Tour Timing" /> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="../../../assets/images/info.png" alt="Details" title="View more details" /> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="../../../assets/images/price.png" alt="Price" title="Price" /> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="../../../assets/images/map.png" alt="Location" title="Location" /> </a>
-                                    </li>
-                                </ul>
+                            <div class="col-md-12 col-sm-12">
+                                <h4><a href="holiday-packages/heaven-on-hills">HEAVEN ON HILLS<span class="v_pl_name">(North East)</span></a></h4>
                             </div>
                         </div>
                     </div>
                     <!-- TOUR PLACE 5 -->
                     <div class="col-md-4 col-sm-6 col-xs-12 b_packages wow fadeInUp" data-wow-duration="1.3s">
-                        <div class="v_place_img"><img src="../../../assets/images/t4.png" alt="Tour Booking" title="Tour Booking" /> </div>
+                        <div class="v_place_img"><img src="../../../assets/images/pack/377x218/North_e5.jpg" alt="Tour Booking" title="Tour Booking" /> </div>
                         <div class="b_pack rows">
-                            <div class="col-md-8 col-sm-8">
-                                <h4><a href="HIMALAYAN-TRANQUILITY.html">HIMALAYAN TRANQUILITY<span class="v_pl_name">(North East)</span></a></h4>
-                            </div>
-                            <div class="col-md-4 col-sm-4 pack_icon">
-                                <ul>
-                                    <li>
-                                        <a href="#"><img src="../../../assets/images/clock.png" alt="Date" title="Tour Timing" /> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="../../../assets/images/info.png" alt="Details" title="View more details" /> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="../../../assets/images/price.png" alt="Price" title="Price" /> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="../../../assets/images/map.png" alt="Location" title="Location" /> </a>
-                                    </li>
-                                </ul>
+                            <div class="col-md-12 col-sm-12">
+                                <h4><a href="holiday-packages/himalayan-tranquility">HIMALAYAN TRANQUILITY<span class="v_pl_name">(North East)</span></a></h4>
                             </div>
                         </div>
                     </div>
                     <!-- TOUR PLACE 6 -->
                     <div class="col-md-4 col-sm-6 col-xs-12 b_packages wow fadeInUp" data-wow-duration="1.5s">
-                        <div class="v_place_img"><img src="../../../assets/images/t6.png" alt="Tour Booking" title="Tour Booking" /> </div>
+                        <div class="v_place_img"><img src="../../../assets/images/pack/377x218/North_e6.jpg" alt="Tour Booking" title="Tour Booking" /> </div>
                         <div class="b_pack rows">
-                            <div class="col-md-8 col-sm-8">
-                                <h4><a href="LOST-KINGDOM.html">LOST KINGDOM<span class="v_pl_name">(North East)</span></a></h4>
-                            </div>
-                            <div class="col-md-4 col-sm-4 pack_icon">
-                                <ul>
-                                    <li>
-                                        <a href="#"><img src="../../../assets/images/clock.png" alt="Date" title="Tour Timing" /> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="../../../assets/images/info.png" alt="Details" title="View more details" /> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="../../../assets/images/price.png" alt="Price" title="Price" /> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="../../../assets/images/map.png" alt="Location" title="Location" /> </a>
-                                    </li>
-                                </ul>
+                            <div class="col-md-12 col-sm-12">
+                                <h4><a href="holiday-packages/lost-kingdom">LOST KINGDOM<span class="v_pl_name">(North East)</span></a></h4>
                             </div>
                         </div>
                     </div>
@@ -236,7 +139,7 @@
                 <div class="col-md-6">
                     <a href="tour-details.html">
                         <div class="tour-mig-like-com">
-                            <div class="tour-mig-lc-img"> <img src="../../../assets/images/listing/home.jpg" alt=""> </div>
+                            <div class="tour-mig-lc-img"> <img src="../../../assets/images/pack/800x500/NE.jpg" alt=""> </div>
                             <div class="tour-mig-lc-con">
                                 <h5>North East India</h5>
                                 <p><span>30 Packages</span> Starting from ₹12,200</p>
@@ -247,7 +150,7 @@
                 <div class="col-md-3">
                     <a href="tour-details.html">
                         <div class="tour-mig-like-com">
-                            <div class="tour-mig-lc-img"> <img src="../../../assets/images/listing/home3.jpg" alt=""> </div>
+                            <div class="tour-mig-lc-img"> <img src="../../../assets/images/pack/550x344/Leh_11.jpg" alt=""> </div>
                             <div class="tour-mig-lc-con tour-mig-lc-con2">
                                 <h5>Leh</h5>
                                 <p>Starting from ₹14,300</p>
@@ -258,7 +161,7 @@
                 <div class="col-md-3">
                     <a href="tour-details.html">
                         <div class="tour-mig-like-com">
-                            <div class="tour-mig-lc-img"> <img src="../../../assets/images/listing/home2.jpg" alt=""> </div>
+                            <div class="tour-mig-lc-img"> <img src="../../../assets/images/pack/550x344/Kerela_22.jpg" alt=""> </div>
                             <div class="tour-mig-lc-con tour-mig-lc-con2">
                                 <h5>Kerala</h5>
                                 <p>Starting from ₹5100</p>
@@ -269,7 +172,7 @@
                 <div class="col-md-3">
                     <a href="tour-details.html">
                         <div class="tour-mig-like-com">
-                            <div class="tour-mig-lc-img"> <img src="../../../assets/images/listing/home1.jpg" alt=""> </div>
+                            <div class="tour-mig-lc-img"> <img src="../../../assets/images/pack/550x344/lonavala.jpg" alt=""> </div>
                             <div class="tour-mig-lc-con tour-mig-lc-con2">
                                 <h5>Kashmir</h5>
                                 <p>Starting from ₹7800</p>
@@ -280,7 +183,7 @@
                 <div class="col-md-3">
                     <a href="tour-details.html">
                         <div class="tour-mig-like-com">
-                            <div class="tour-mig-lc-img"> <img src="../../../assets/images/listing/home4.jpg" alt=""> </div>
+                            <div class="tour-mig-lc-img"> <img src="../../../assets/images/pack/550x344/Kashmir.jpg" alt=""> </div>
                             <div class="tour-mig-lc-con tour-mig-lc-con2">
                                 <h5>Lonavala</h5>
                                 <p>Starting from ₹5100</p>
@@ -312,20 +215,20 @@
                         <div class="to-ho-hotel-con">
                             <div class="to-ho-hotel-con-1">
                                 <div class="hot-page2-hli-3"> <img src="../../../assets/images/hci1.png" alt=""> </div>
-                                <div class="hom-hot-av-tic"> Available Tickets: 42 </div> <img src="../../../assets/images/hotels/1.jpg" alt=""> </div>
+                                <div class="hom-hot-av-tic"> Available Tickets: 42 </div> <img src="../../../assets/images/pack/550x350/Darjeeling.jpg" alt=""> </div>
                             <div class="to-ho-hotel-con-23">
                                 <div class="to-ho-hotel-con-2">
-                                    <a href="hotel-details.html">
-                                        <h4>GTC Grand Chola</h4>
+                                    <a href="holiday-packages/queen-of-the-hills">
+                                        <h4>QUEEN OF THE HILLS (Darjeeling 3N)</h4>
                                     </a>
                                 </div>
                                 <div class="to-ho-hotel-con-3">
                                     <ul>
-                                        <li>City: illunois,united states
+                                        <li>City: Darjeeling
                                             <div class="dir-rat-star ho-hot-rat-star"> Rating: <i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o"
                                                     aria-hidden="true"></i> </div>
                                         </li>
-                                        <li><span class="ho-hot-pri-dis">₹720</span><span class="ho-hot-pri">₹420</span> </li>
+                                        <li><span class="ho-hot-pri-dis">₹720</span><span class="ho-hot-pri">₹12,200</span> </li>
                                     </ul>
                                 </div>
                             </div>
@@ -336,20 +239,20 @@
                         <div class="to-ho-hotel-con">
                             <div class="to-ho-hotel-con-1">
                                 <div class="hot-page2-hli-3"> <img src="../../../assets/images/hci1.png" alt=""> </div>
-                                <div class="hom-hot-av-tic"> Available Tickets: 520 </div> <img src="../../../assets/images/hotels/2.jpg" alt=""> </div>
+                                <div class="hom-hot-av-tic"> Available Tickets: 520 </div> <img src="../../../assets/images/pack/550x350/Darjeeling.jpg" alt=""> </div>
                             <div class="to-ho-hotel-con-23">
                                 <div class="to-ho-hotel-con-2">
-                                    <a href="hotel-details.html">
-                                        <h4>Taaj Grand Resorts</h4>
+                                    <a href="holiday-packages/leh-package">
+                                        <h4>LADAKH 6 NIGHTS / 7 DAYS</h4>
                                     </a>
                                 </div>
                                 <div class="to-ho-hotel-con-3">
                                     <ul>
-                                        <li>City: illunois,united states
+                                        <li>City: LADAKH
                                             <div class="dir-rat-star ho-hot-rat-star"> Rating: <i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o"
                                                     aria-hidden="true"></i> </div>
                                         </li>
-                                        <li><span class="ho-hot-pri-dis">₹840</span><span class="ho-hot-pri">₹540</span> </li>
+                                        <li><span class="ho-hot-pri-dis">₹840</span><span class="ho-hot-pri">₹26,300</span> </li>
                                     </ul>
                                 </div>
                             </div>
@@ -360,20 +263,20 @@
                         <div class="to-ho-hotel-con">
                             <div class="to-ho-hotel-con-1">
                                 <div class="hot-page2-hli-3"> <img src="../../../assets/images/hci1.png" alt=""> </div>
-                                <div class="hom-hot-av-tic"> Available Tickets: 92 </div> <img src="../../../assets/images/hotels/3.jpg" alt=""> </div>
+                                <div class="hom-hot-av-tic"> Available Tickets: 92 </div> <img src="../../../assets/images/pack/550x350/Kerela_33.jpg" alt=""> </div>
                             <div class="to-ho-hotel-con-23">
                                 <div class="to-ho-hotel-con-2">
-                                    <a href="hotel-details.html">
-                                        <h4>Keep Grand Hotels</h4>
+                                    <a href="holiday-packages/kerala-package">
+                                        <h4>Kerala 03 nights 04 days</h4>
                                     </a>
                                 </div>
                                 <div class="to-ho-hotel-con-3">
                                     <ul>
-                                        <li>City: illunois,united states
+                                        <li>City: Munnar, Alleppy
                                             <div class="dir-rat-star ho-hot-rat-star"> Rating: <i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o"
                                                     aria-hidden="true"></i> </div>
                                         </li>
-                                        <li><span class="ho-hot-pri-dis">₹680</span><span class="ho-hot-pri">₹380</span> </li>
+                                        <li><span class="ho-hot-pri-dis">₹680</span><span class="ho-hot-pri">₹5,100</span> </li>
                                     </ul>
                                 </div>
                             </div>
